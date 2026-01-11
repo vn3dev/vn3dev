@@ -13,7 +13,7 @@
 ---
 
 <h3>
-  About me
+  About me ☕
   <a href="https://discord.com/users/402152296441577493" target="_blank">
     <img align="right" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -31,7 +31,7 @@
 
 <br>
 
-<h3>My Toolbox 🧰</h3>
+<h3>Skills 🧰</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
