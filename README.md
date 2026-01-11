@@ -1,10 +1,8 @@
 ---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33DDFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+i'm+vn3;Cloud+Solutions+Builder" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <h3><strong>👋 Hi, I'm Vinicius Costa | Building Cloud Infrastructure</strong></h3>
+</div>
 
 <p align="center">
   <img src="banner2.gif" alt="Banner" width="100%">
