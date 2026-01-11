@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <h3><strong>Obsessed with automation and operational excellence</strong></h5>
+  <h4><strong>Obsessed with automation and operational excellence</strong></h4>
 </div>
 
 ###
