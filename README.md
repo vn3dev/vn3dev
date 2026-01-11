@@ -14,28 +14,20 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="left" style="border: none;">
-      <h3>About me ☕</h3>
-    </td>
-    <td align="right" style="border: none;">
-      <a href="https://www.linkedin.com/in/vini-costa-018254398" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="https://discord.com/users/402152296441577493" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-      </a>
-    </td>
-  </tr>
-</table>
+<h3>
+  About me ☕
+  <a href="https://discord.com/users/402152296441577493" target="_blank">
+    <img align="right" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/vini-costa-018254398" target="_blank">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 5px;">
+  </a>
+</h3>
 
 * Studying Software Engineering at [PUCPR](https://www.pucpr.br) (Brazil).
 * Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.
 * When I'm offline, you'll probably find me playing something on Discord.
 * Reach me via Email: [vinicosta.vn3dev@gmail.com](mailto:vinicosta.vn3dev@gmail.com)
-  
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
