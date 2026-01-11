@@ -1,3 +1,5 @@
+---
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+i'm+vn3;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
@@ -11,6 +13,17 @@
 </div>
 
 ---
+
+### About me ☕
+
+* Studying Software Engineering at [PUCPR](https://www.pucpr.br).
+* Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.
+* Reach me via Email: [vinicosta.vn3dev@gmail.com](mailto:vinicosta.vn3dev@gmail.com)
+* When I'm offline, you'll probably find me playing something on Discord.
+* 
+### Status
+
+[![Discord Presence](https://lanyard.wrapped.run/api/402152296441577493)](https://discord.com/users/402152296441577493)
 
 <br clear="both">
 
