@@ -71,6 +71,7 @@
 </div>
 
 <br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vn3dev/vn3dev/output/pacman-contribution-graph-dark.svg">
