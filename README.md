@@ -22,13 +22,12 @@
   </a>
 </h3>
 
-* Studying Software Engineering at [PUCPR](https://www.pucpr.br) (Brazil).
-<br>
-* Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.
-<br>
-* When I'm offline, you'll probably find me playing something on Discord.
-<br>
-* Reach me via Email: [vinicosta.vn3dev@gmail.com](mailto:vinicosta.vn3dev@gmail.com)
+<ul>
+  <li>Studying Software Engineering at <a href="https://www.pucpr.br">PUCPR</a> (Brazil).</li><br>
+  <li>Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.</li><br>
+  <li>When I'm offline, you'll probably find me playing something on Discord.</li><br>
+  <li>Reach me via Email: <a href="mailto:vinicosta.vn3dev@gmail.com">vinicosta.vn3dev@gmail.com</a></li>
+</ul>
 
 <br>
 
@@ -38,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
+  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
