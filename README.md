@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="banner.gif" alt="Banner" width="100%">
-</p>
-
 ---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+i'm+vn3;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="banner.gif" alt="Banner" width="100%">
 </p>
 
 <div align="center">
