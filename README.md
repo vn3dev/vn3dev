@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33DDFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+i'm+vn3;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33DDFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+i'm+vn3;I+Build+Cloud+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <h4><strong>Obsessed with automation and operational excellence</strong></h4>
+  <h4><strong>Architecting the future through Cloud automation and DevOps culture</strong></h4>
 </div>
 
 ---
