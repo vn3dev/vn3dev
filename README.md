@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <h4><strong>If it has to be done twice, it has to be automated.</strong></h4>
+  <h4><strong>If it has to be done twice, it has to be automated</strong></h4>
 </div>
