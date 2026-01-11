@@ -22,10 +22,10 @@
   </a>
 </h3>
 
-<ul>
-  <li>Studying Software Engineering at <a href="https://www.pucpr.br">PUCPR</a> (Brazil).</li><br>
-  <li>Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.</li><br>
-  <li>When I'm offline, you'll probably find me playing something on Discord.</li><br>
+<ul style="line-height: 2.1;">
+  <li>Studying Software Engineering at <a href="https://www.pucpr.br">PUCPR</a> (Brazil).</li>
+  <li>Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.</li>
+  <li>When I'm offline, you'll probably find me playing something on Discord.</li>
   <li>Reach me via Email: <a href="mailto:vinicosta.vn3dev@gmail.com">vinicosta.vn3dev@gmail.com</a></li>
 </ul>
 
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
