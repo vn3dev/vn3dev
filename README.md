@@ -73,3 +73,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vn3dev/vn3dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vn3dev/vn3dev/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+  <h4><strong>If it has to be done twice, it has to be automated.</strong></h4>
+</div>
