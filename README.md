@@ -23,7 +23,6 @@
 * Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.
 * When I'm offline, you'll probably find me playing something on Discord.
 * Reach me via Email: [vinicosta.vn3dev@gmail.com](mailto:vinicosta.vn3dev@gmail.com)
-<br>
 <div align="left">
   <h3>My Toolbox 🧰</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
