@@ -26,7 +26,7 @@
 
 <ul style="line-height: 2.1;">
   <li>Studying Software Engineering at <a href="https://www.pucpr.br">PUCPR</a> (Brazil).</li>
-  <li>Currently deepening my knowledge in Cloud Infrastructure and CI/CD pipelines.</li>
+  <li>Currently deepening my knowledge in Cloud Infrastructure and shell scripts.</li>
   <li>When I'm offline, you'll probably find me playing something on Discord.</li>
   <li>Reach me via Email: <a href="mailto:vinicosta.vn3dev@gmail.com">vinicosta.vn3dev@gmail.com</a></li>
 </ul>
