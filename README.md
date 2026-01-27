@@ -10,8 +10,9 @@ Software Engineering student at <a href="https://www.pucpr.br">PUCPR</a> focusin
 </h3>
 
 <ul style="line-height: 2.1;">
-  <li>IaC with terraform</li>
-  <li>Shell and python automation</li>
+  <li>Terraform</li>
+  <li>Shell scripting</li>
+  <li>Python(Flask)<
   <li>K8s</li>
   <li>Prometheus, grafana and cloudwatch</li>
 </ul>
