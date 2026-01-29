@@ -12,7 +12,7 @@ Software Engineering student at <a href="https://www.pucpr.br">PUCPR</a> focusin
 <ul style="line-height: 2.1;">
   <li>Terraform</li>
   <li>Shell scripting</li>
-  <li>Python(Flask)</li>
+  <li>Python + Flask</li>
   <li>K8s</li>
   <li>Prometheus, grafana and cloudwatch</li>
 </ul>
