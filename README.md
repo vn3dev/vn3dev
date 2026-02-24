@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Costa-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vini-costa-018254398/)](https://www.linkedin.com/in/vini-costa-018254398/) 
 [![Email Badge](https://img.shields.io/badge/-vinicosta.eng@proton.me-5B2D8B?style=flat-square&logo=Gmail&logoColor=white)](mailto:vinicosta.eng@proton.me)
 
-Software Engineering student at <a href="https://www.pucpr.br">PUCPR</a> focusing on Cloud Infrastructure and DevOps culture. Specializing in provisioning scalable environments using Terraform, AWS, and Docker. Experienced in developing automation tools with Python and Bash.
+Software Engineering student focusing on Cloud Infrastructure and DevOps culture. Specializing in provisioning scalable environments using Terraform, AWS, and Docker. Experienced in developing automation tools with Python and Bash.
 
 ---
 
