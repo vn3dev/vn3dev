@@ -10,11 +10,11 @@ Software Engineering student focusing on Cloud Infrastructure and DevOps culture
 </h3>
 
 <ul style="line-height: 2.1;">
-  <li>Terraform</li>
-  <li>Shell Scripting</li>
+  <li>RESTful APIs</li>
+  <li>Event-driven automation workflows using <strong>n8n</strong></li>
+  <li><strong>JavaScript</strong> for API integrations and backend scripting</li>
   <li>Python + Flask</li>
-  <li>DNS and TCP Troubleshooting on Linux</li>
-  <li>Prometheus, Grafana and CloudWatch</li>
+  <li>AWS serverless services, especially <strong>AWS Lambda</strong></li>
 </ul>
 
 <div align="center">
